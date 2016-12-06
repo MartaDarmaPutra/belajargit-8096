@@ -3,7 +3,7 @@
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
-
+//edit coba coba
 $id = $_GET['id'];
 
 if(!is_numeric($id)){
