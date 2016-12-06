@@ -1,9 +1,14 @@
 <?php 
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
+<<<<<<< HEAD
 //aaaaaaaaaaa
 ///aaaaaaaaaaaaa
 
+=======
+//aaaaaaubah
+//ubah
+>>>>>>> 05af88975ee82829a757bd4e0a90f0f0032d899c
 if (!isset($_POST['kirim'])){
 	exit('Access Forbiden');
 }
